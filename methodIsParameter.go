@@ -16,5 +16,5 @@ func runMethodIsParameter() {
 }
 
 func init(){
-	runMethodIsParameter()
+//	runMethodIsParameter()
 }
